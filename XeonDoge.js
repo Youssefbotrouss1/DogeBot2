@@ -3211,9 +3211,9 @@ anu = `──────────────────
 NOTE : _DO NOT SELL BOT SCRIPT_
 ──────────────────
 *👇SCRIPT GITHUB LINK👇*
-https://github.com/DGYoussef/DogeBot2
+https://github.com/Youssefbotrouss1/DogeBot2
 _BASE : Youssef Bot Inc._
-_ORI SCRIPT : Youssef Bot Version 2_
+_ORI SCRIPT :  Bot Version 2_
 _OWNER : ${NamaOwner}_
 ⍟ ────────────────── ⍟`
 buttons = [
