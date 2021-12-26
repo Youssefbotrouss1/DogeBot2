@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/LPbHTfL/nsfwdoge.jpg?format=jpg&name=900x900" alt="Xeon" width="170" />
 
-## Doge Bot V2
+## Youssef Bot V2
 
 </div>
 
@@ -46,7 +46,7 @@ heroku/nodejs
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
+🦄 git clone https://github.com/Youssefbotrouss1/DogeBot.git
 🦄 cd DogeBot2
 🦄 npm start
 ```
@@ -77,7 +77,7 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+201289267791"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
